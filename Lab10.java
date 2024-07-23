@@ -12,6 +12,8 @@ public class Lab10 {
         for(int i=14; i<n;i++){
             if(i % 3==0 && i % 5==0){
                 System.out.println("FizzBuzz");
+                System.out.println("Tedsud");
+
             }
             if(i % 5==0 && i % 5==0){
                 System.out.println("Fizz");
