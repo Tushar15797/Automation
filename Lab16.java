@@ -1,6 +1,4 @@
-package A212024;
-
-import java.util.Scanner;
+package A21072024;
 
 public class Lab16 {
     public static void main(String[] args) {

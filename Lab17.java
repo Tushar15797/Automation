@@ -1,4 +1,4 @@
-package A212024;
+package A21072024;
 
 public class Lab17 {
     public static void main(String[] args) {
@@ -6,6 +6,6 @@ public class Lab17 {
         main1();
     }
     public static void main1() {
-        System.out.println("Hi");
+        System.out.println("Hi123");
     }
 }
