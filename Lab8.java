@@ -1,4 +1,4 @@
-package A21072024;
+package July.A21072024;
 import java.util.Scanner;
 public class Lab8 {
     public static void main(String[] args) {
