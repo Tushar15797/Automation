@@ -10,5 +10,6 @@ public class Ex02 {
         WebDriver driver=new EdgeDriver();
         driver.get("https://app.vwo.com");
 
+
     }
 }

@@ -14,6 +14,7 @@ public class Ex03 {
         // Expected title
         String expectedTitle = "Login - VWO";
         // Assert the title
+
         Assert.assertEquals(expectedTitle, actualTitle);
 
     }
