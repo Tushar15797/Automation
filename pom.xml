@@ -39,6 +39,14 @@
       <version>4.25.0</version>
     </dependency>
 
+    <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-edge-driver -->
+    <dependency>
+      <groupId>org.seleniumhq.selenium</groupId>
+      <artifactId>selenium-edge-driver</artifactId>
+      <version>4.25.0</version>
+    </dependency>
+
+
 
   </dependencies>
   <name>Archetype - AutomationEx</name>
