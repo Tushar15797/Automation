@@ -1,4 +1,4 @@
-package Code;
+package Code.Test;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.edge.EdgeDriver;

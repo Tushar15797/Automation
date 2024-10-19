@@ -1,4 +1,4 @@
-package Code;
+package Code.Test;
 
 import Functions.BrowserLauncher;
 import org.openqa.selenium.WebDriver;
